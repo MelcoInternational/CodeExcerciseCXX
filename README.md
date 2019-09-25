@@ -1,4 +1,4 @@
-**Melco Take home coding Excercise**
+**Melco Coding Exercise**
 
 **Problem:**
 
@@ -19,6 +19,7 @@ misspelled words. The user can then can bring up and select a list of possible
 replacements. The UI portion is out of scope; except that it will leverage the
 library created here.
 
+
 **Expectations:**
 
 The focus here is on readable, maintainable code. Efficiency is important but
@@ -33,9 +34,23 @@ purpose of this test is to see how an applicant does research and pulls together
 a solution. Obviously though, you are also expected to not just copy paste an
 answer together.
 
+There are 'TODO:' comments marking out the most obvious portions to fill in, but
+ultimately we are looking at the unit test output as our measure of 'done'. 
+
 We expect this to take roughly 3-4 hours; and don't expect perfection. 
 
 **Technical details:**
 
 Use any IDE or platform you are comfortable with. Provided is a CMakeLists file
 you are encouraged to use.
+
+You should be provided a link to the git repo as your initial starting point; and
+it is encouraged to use source control as you typically would on an actual project. 
+If you have / use a publicly available git repo, on completion of the exercise 
+we'd ask that you provide a link to your final pushed product. If you don't have
+a current git repo service of choice; and don't want the end results to be public,
+bitbucket.org offers free private repos you can share access to. 
+
+You are also encouraged to use this as a general code sample as part of a code
+profile, and to make it publicly available if you so desire. Ultimately the code
+you write for the exercise is yours to use however you want. 
